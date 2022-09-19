@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/20DCS105_Shrey/static/css/main.48551862.chunk.css",
+    "main.js": "/20DCS105_Shrey/static/js/main.b51eb1d6.chunk.js",
+    "main.js.map": "/20DCS105_Shrey/static/js/main.b51eb1d6.chunk.js.map",
+    "runtime-main.js": "/20DCS105_Shrey/static/js/runtime-main.a0e436b5.js",
+    "runtime-main.js.map": "/20DCS105_Shrey/static/js/runtime-main.a0e436b5.js.map",
+    "static/css/2.9229e6f1.chunk.css": "/20DCS105_Shrey/static/css/2.9229e6f1.chunk.css",
+    "static/js/2.29c5b276.chunk.js": "/20DCS105_Shrey/static/js/2.29c5b276.chunk.js",
+    "static/js/2.29c5b276.chunk.js.map": "/20DCS105_Shrey/static/js/2.29c5b276.chunk.js.map",
+    "index.html": "/20DCS105_Shrey/index.html",
+    "precache-manifest.f1b248f5bc933f549a5aaeb53ea97add.js": "/20DCS105_Shrey/precache-manifest.f1b248f5bc933f549a5aaeb53ea97add.js",
+    "service-worker.js": "/20DCS105_Shrey/service-worker.js",
+    "static/css/2.9229e6f1.chunk.css.map": "/20DCS105_Shrey/static/css/2.9229e6f1.chunk.css.map",
+    "static/css/main.48551862.chunk.css.map": "/20DCS105_Shrey/static/css/main.48551862.chunk.css.map",
+    "static/js/2.29c5b276.chunk.js.LICENSE.txt": "/20DCS105_Shrey/static/js/2.29c5b276.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e436b5.js",
+    "static/css/2.9229e6f1.chunk.css",
+    "static/js/2.29c5b276.chunk.js",
+    "static/css/main.48551862.chunk.css",
+    "static/js/main.b51eb1d6.chunk.js"
+  ]
+}
